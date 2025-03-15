@@ -1,5 +1,5 @@
 # GR-Yaris-Startup-Controller
-This device will automatically press all the annoying buttons in a GR Yaris when you first start your car:
+This device will automatically press any (or all) of the annoying buttons in a GR Yaris when you first start your car:
 * Lane Departure Alert (turn off)
 * iMT (turn on)
 * Auto Stop/Start (turn off)

@@ -11,7 +11,6 @@ The case requires the following parts:
 
 </br>
 </br>
-</br>
 Exploded Assembly View:</br>
 </br>
 ![alt text][explode]

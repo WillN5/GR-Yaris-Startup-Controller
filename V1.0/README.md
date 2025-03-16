@@ -1,11 +1,11 @@
 # GR-Yaris-Startup-Controller
 
 ---- ** WORK IN PROGRESS ** ---- <br/>
-To do:
-* Add overview + install guide
-* Add BoM
-* Add pictures
-* Actually test device (waiting on PCBs) <br/>
+To do:<br/>
+Add overview + install guide<br/>
+Add BoM<br/>
+Add pictures<br/>
+Actually test device (waiting on PCBs) <br/>
 ---------------------------------- <br/>
 <br/>
 <br/>
@@ -24,6 +24,6 @@ In this repository you will find:
 * 3D files for the case (/Housing)
 * Pictures (/Docs)
 
-Credit goes to MagnusT and his original post here:
-https://www.gr-yaris.co.uk/threads/automatic-shut-off-of-all-lane-assist-everytime-you-start-the-car.2947/?nested_view=1&sortby=oldest#replies
+Credit goes to MagnusT and his original post here:<br/>
+https://www.gr-yaris.co.uk/threads/automatic-shut-off-of-all-lane-assist-everytime-you-start-the-car.2947/?nested_view=1&sortby=oldest#replies<br/>
 This project is a development of that idea to include the additional button presses, wrapped up in a neat package.

@@ -1,4 +1,4 @@
-# GR-Yaris-Startup-Controller
+# GR Yaris Startup Controller V1.0
 
 ---- ** WORK IN PROGRESS ** ---- <br/>
 To do:<br/>

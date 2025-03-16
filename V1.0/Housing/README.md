@@ -10,7 +10,6 @@ The case requires the following parts:
 * 5x M3 heat set inserts
 
 </br>
-</br>
 Exploded Assembly View:</br>
 </br>
 ![alt text][explode]

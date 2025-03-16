@@ -3,6 +3,7 @@
 // GR Yaris Startup Controller
 // For use with PCB v1.0
 
+// To program the ATtiny85 deb board, you must include the following:
 // Additional boards manager URLs:
 // https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json
 // Install Digistump AVR Boards

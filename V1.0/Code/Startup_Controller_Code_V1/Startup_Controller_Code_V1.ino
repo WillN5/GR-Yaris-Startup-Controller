@@ -4,10 +4,10 @@
 // For use with PCB v1.0
 
 // To program the ATtiny85 dev board, you must include the following:
-// Additional boards manager URLs:
+// File / Preferences / Additional boards manager URLs:
 // http://drazzy.com/package_drazzy.com_index.json
-// Install ATTinyCore
-// Board: ATtiny85 (Micronucleus / DigiSpark)
+// Boards Manager --> Install "ATTinyCore" by Spence
+// Tools / Board: ATTinyCore / ATtiny85 (Micronucleus / DigiSpark)
 
 #include <avr/sleep.h>
 

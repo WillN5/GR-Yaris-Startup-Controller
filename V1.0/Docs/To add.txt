@@ -1,4 +1,3 @@
 BoM (in PCB directory)
-Install guide
+Overview + Install Guide
 Pics
-Car wiring info

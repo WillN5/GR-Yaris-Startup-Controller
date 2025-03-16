@@ -5,9 +5,9 @@
 
 // To program the ATtiny85 dev board, you must include the following:
 // Additional boards manager URLs:
-// https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json
-// Install Digistump AVR Boards
-// Board: Digispark Default - 16.5MHz
+// http://drazzy.com/package_drazzy.com_index.json
+// Install ATTinyCore
+// Board: ATtiny85 (Micronucleus / DigiSpark)
 
 #include <avr/sleep.h>
 

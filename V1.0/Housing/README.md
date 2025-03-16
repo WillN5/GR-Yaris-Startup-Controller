@@ -9,7 +9,7 @@ The case requires the following parts:
 * 2x M3x12 button head screws
 * 5x M3 heat set inserts
 
-Reference-style: 
+Exploded Assembly View: 
 ![alt text][explode]
 
 [explode]: https://github.com/WillN5/GR-Yaris-Startup-Controller/blob/main/V1.0/Housing/Assembly%20Explode.png

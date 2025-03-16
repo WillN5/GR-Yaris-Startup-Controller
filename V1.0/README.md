@@ -3,7 +3,6 @@
 ---- ** WORK IN PROGRESS ** ---- <br/>
 To do:<br/>
 Add overview + install guide<br/>
-Add BoM<br/>
 Add pictures<br/>
 !! Actually test device (waiting on PCBs) !! <br/>
 ---------------------------------- <br/>

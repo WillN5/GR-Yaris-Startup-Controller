@@ -12,4 +12,4 @@ The case requires the following parts:
 </br>
 Exploded Assembly View:</br>
 </br>
-![alt text](https://github.com/WillN5/GR-Yaris-Startup-Controller/blob/main/V1.0/Pics/Assembly%20Explode.png)
+![alt text](https://github.com/WillN5/GR-Yaris-Startup-Controller/blob/main/V1.0/Pics/Assembly%20Explode.png?raw=true)

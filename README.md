@@ -6,7 +6,7 @@ This device will automatically press any (or all) of the annoying buttons in a G
 * Select Sport/Track mode
 
 In this repository you will find:
-* Installation Guide <- probably a good place to start
+* Overview & Installation Guide <- probably a good place to start
 * Car wiring information
 * PCB schematic
 * Gerber files

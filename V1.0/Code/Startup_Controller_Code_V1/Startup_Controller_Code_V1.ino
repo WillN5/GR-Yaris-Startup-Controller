@@ -31,10 +31,6 @@ void setup() {
   digitalWrite(A_SS,LOW);
   digitalWrite(MODE_SELECT,LOW);
 
-}
-
-void loop() {
-
   // wait 3 seconds - give car some time to startup
   delay(3000);
 
@@ -62,5 +58,9 @@ void loop() {
   set_sleep_mode(SLEEP_MODE_PWR_DOWN);
   sleep_enable();
   sleep_mode(); 
+
+}
+
+void loop() {
 
 }

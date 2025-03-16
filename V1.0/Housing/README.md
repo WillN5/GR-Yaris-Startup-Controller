@@ -14,4 +14,4 @@ Exploded Assembly View:</br>
 </br>
 ![alt text][explode]
 
-[explode]: https://github.com/WillN5/GR-Yaris-Startup-Controller/blob/main/V1.0/Pics/Assembly%20Explode.png
+[explode]: [https://github.com/WillN5/GR-Yaris-Startup-Controller/blob/main/V1.0/Pics/Assembly%20Explode.png](https://github.com/WillN5/GR-Yaris-Startup-Controller/blob/main/V1.0/Pics/Assembly%20Explode.png)

@@ -14,7 +14,7 @@
 // Define output pins
 #define LDA 0
 #define IMT 1
-#define A_SS 2
+// #define A_SS 2
 #define MODE_SELECT 3
 
 void setup() {
@@ -22,13 +22,13 @@ void setup() {
   // Setup pins as outputs
   pinMode(LDA,OUTPUT);
   pinMode(IMT,OUTPUT);
-  pinMode(A_SS,OUTPUT);
+  // pinMode(A_SS,OUTPUT);
   pinMode(MODE_SELECT,OUTPUT);
   
   // Ensure pins are driven low
   digitalWrite(LDA,LOW);
   digitalWrite(IMT,LOW);
-  digitalWrite(A_SS,LOW);
+  // digitalWrite(A_SS,LOW);
   digitalWrite(MODE_SELECT,LOW);
 
   // wait 3 seconds - give car some time to startup
@@ -36,20 +36,20 @@ void setup() {
 
   // press all buttons
   digitalWrite(IMT,HIGH);
-  digitalWrite(A_SS,HIGH);
+  // digitalWrite(A_SS,HIGH);
   digitalWrite(MODE_SELECT,HIGH);
   digitalWrite(LDA,HIGH);
 
-  // wait short time - 300ms
-  delay(300);
+  // wait short time - 0.5s
+  delay(500);
 
   // release short press buttons
   digitalWrite(IMT,LOW);
-  digitalWrite(A_SS,LOW);
+  // digitalWrite(A_SS,LOW);
   digitalWrite(MODE_SELECT,LOW);
 
-  // wait long time - 4s total
-  delay(3700);
+  // wait long time - 4.5s total
+  delay(4000);
 
   // release long press buttons
   digitalWrite(LDA,LOW);

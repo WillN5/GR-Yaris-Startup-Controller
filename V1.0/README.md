@@ -18,7 +18,6 @@ In this repository you will find:
 * Overview & Installation Guide <- probably a good place to start (/Docs) *NOT YET COMPLETED*
 * Car wiring information (/Docs)
 * PCB schematic (/PCB)
-* Gerber files (/PCB)
 * Code that is running on the Digispark ATtiny85 dev board (/Code)
 * 3D files for the case (/Housing)
 * Pictures (/Docs) *NOT YET COMPLETED*

@@ -46,7 +46,7 @@ void setup() {
   // release short press buttons
   digitalWrite(IMT,LOW);
   digitalWrite(A_SS,LOW);
-  digitalWrite(MODE_SELECT,LOW);
+  digitalWrite(MODE_SELECT,LOW); 
 
   // wait long time - 4.5s total
   delay(4000);

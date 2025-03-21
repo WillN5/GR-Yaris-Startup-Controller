@@ -13,7 +13,7 @@ This device will automatically press any (or all) of the annoying buttons in a G
 * Select Sport/Track mode
 
 In this repository you will find:
-* [Overview & Installation Guide](https://github.com/WillN5/GR-Yaris-Startup-Controller/tree/main/V1.0/Docs) <- probably a good place to start
+* [Overview & Installation Guide](https://github.com/WillN5/GR-Yaris-Startup-Controller/tree/main/V1.0/Docs)
 * [Car wiring information](https://github.com/WillN5/GR-Yaris-Startup-Controller/tree/main/V1.0/Docs)
 * [PCB schematic](https://github.com/WillN5/GR-Yaris-Startup-Controller/tree/main/V1.0/PCB)
 * [Code](https://github.com/WillN5/GR-Yaris-Startup-Controller/tree/main/V1.0/Code/Startup_Controller_Code_V1)

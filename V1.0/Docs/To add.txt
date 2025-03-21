@@ -1,3 +1,0 @@
-BoM (in PCB directory)
-Overview + Install Guide
-Pics

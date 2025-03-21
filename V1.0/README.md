@@ -24,4 +24,4 @@ In this repository you will find:
 
 Credit for idea goes to MagnusT and his original post here:<br/>
 https://www.gr-yaris.co.uk/threads/automatic-shut-off-of-all-lane-assist-everytime-you-start-the-car.2947/?nested_view=1&sortby=oldest#replies<br/>
-This project is a development of that idea to include the additional button presses, wrapped up in a neat package.
+This project is a development of that idea to include the additional button presses, wrapped up in a (hopefully) neat package.

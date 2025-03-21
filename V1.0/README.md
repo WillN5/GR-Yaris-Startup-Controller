@@ -3,6 +3,7 @@
 ---- ** WORK IN PROGRESS ** ---- <br/>
 To do:<br/>
 * Test device on car
+* Pictures
 <br/>
 ---------------------------------- <br/>
 <br/>
@@ -15,7 +16,7 @@ This device will automatically press any (or all) of the annoying buttons in a G
 * Select Sport/Track mode
 
 In this repository you will find:
-* Overview & Installation Guide <- probably a good place to start (/Docs) *NOT YET COMPLETED*
+* Overview & Installation Guide <- probably a good place to start (/Docs)
 * Car wiring information (/Docs)
 * PCB schematic (/PCB)
 * Code that is running on the Digispark ATtiny85 dev board (/Code)

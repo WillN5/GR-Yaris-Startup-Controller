@@ -2,9 +2,7 @@
 
 ---- ** WORK IN PROGRESS ** ---- <br/>
 To do:<br/>
-Add overview + install guide<br/>
-Add pictures<br/>
-!! Actually test device (waiting on PCBs) !! <br/>
+!! Test device on car !! <br/>
 ---------------------------------- <br/>
 <br/>
 <br/>

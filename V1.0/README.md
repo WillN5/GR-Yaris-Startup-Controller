@@ -3,11 +3,6 @@
 ---- ** WORK IN PROGRESS ** ---- <br/>
 To do:<br/>
 * Test device on car
-* Pictures
-<br/>
----------------------------------- <br/>
-<br/>
-<br/>
 
 ![alt text](https://github.com/WillN5/GR-Yaris-Startup-Controller/blob/main/V1.0/Pics/Assembled.JPEG)
 
@@ -23,7 +18,7 @@ In this repository you will find:
 * [PCB schematic](https://github.com/WillN5/GR-Yaris-Startup-Controller/tree/main/V1.0/PCB)
 * [Code](https://github.com/WillN5/GR-Yaris-Startup-Controller/tree/main/V1.0/Code/Startup_Controller_Code_V1)
 * [3D files for the case](https://github.com/WillN5/GR-Yaris-Startup-Controller/tree/main/V1.0/Housing)
-* Pictures (/Docs) *NOT YET COMPLETED*
+* [Pictures](https://github.com/WillN5/GR-Yaris-Startup-Controller/tree/main/V1.0/Pics)
 
 Credit for idea goes to MagnusT and his original post here:<br/>
 https://www.gr-yaris.co.uk/threads/automatic-shut-off-of-all-lane-assist-everytime-you-start-the-car.2947/?nested_view=1&sortby=oldest#replies<br/>

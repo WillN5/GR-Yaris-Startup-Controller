@@ -2,7 +2,8 @@
 
 ---- ** WORK IN PROGRESS ** ---- <br/>
 To do:<br/>
-* Test device on car <br/>
+* Test device on car
+<br/>
 ---------------------------------- <br/>
 <br/>
 <br/>

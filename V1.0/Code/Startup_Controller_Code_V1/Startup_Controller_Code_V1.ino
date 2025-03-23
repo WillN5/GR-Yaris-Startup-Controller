@@ -32,7 +32,7 @@ void setup() {
   digitalWrite(MODE_SELECT,LOW);
 
   // wait 3 seconds - give car some time to startup
-  delay(3000);
+  delay(8000);
 
   // press all buttons
   digitalWrite(IMT,HIGH);

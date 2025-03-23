@@ -1,9 +1,5 @@
 # GR Yaris Startup Controller V1.0
 
----- ** WORK IN PROGRESS ** ---- <br/>
-To do:<br/>
-* Test device on car
-
 ![alt text](https://github.com/WillN5/GR-Yaris-Startup-Controller/blob/main/V1.0/Pics/Assembled.JPEG)
 
 This device will automatically press any (or all) of the annoying buttons in a GR Yaris when you first start your car:

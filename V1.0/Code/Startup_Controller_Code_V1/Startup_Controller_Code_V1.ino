@@ -31,28 +31,34 @@ void setup() {
   digitalWrite(A_SS,LOW);
   digitalWrite(MODE_SELECT,LOW);
 
-  // wait 8 seconds - give car some time to startup
-  delay(8000);
+  // wait 12 seconds - give time for screen to load to debug
+  delay(12000);
 
-  // press all buttons
-  digitalWrite(IMT,HIGH);
-  digitalWrite(A_SS,HIGH);
-  digitalWrite(MODE_SELECT,HIGH);
-  digitalWrite(LDA,HIGH);
+  // Press buttons sequentially
 
-  // wait short time - 0.5s
-  delay(500);
+  // Lane departue alert
+  digitalWrite(LDA,HIGH); // press LDA
+  delay(4000); // wait long time
+  digitalWrite(LDA,LOW); // release LDA
+  delay(1000); // wait short time
 
-  // release short press buttons
-  digitalWrite(IMT,LOW);
-  digitalWrite(A_SS,LOW);
-  digitalWrite(MODE_SELECT,LOW); 
+  // iMT
+  digitalWrite(IMT,HIGH); // press iMT
+  delay(700); // wait short time
+  digitalWrite(IMT,LOW); // release iMT
+  delay(1000); // wait short time
 
-  // wait long time - 4.5s total
-  delay(4000);
+  // Auto stop/start
+  digitalWrite(A_SS,HIGH); // press stop/start
+  delay(700); // wait short time
+  digitalWrite(A_SS,LOW); // release stop/start
+  delay(1000); // wait short time
 
-  // release long press buttons
-  digitalWrite(LDA,LOW);
+  // Sport / track mode
+  digitalWrite(MODE_SELECT,HIGH); // press mode select
+  delay(700); // wait short time
+  digitalWrite(MODE_SELECT,LOW); // release mode select
+  delay(1000); // wait short time
 
   // sleep device
   set_sleep_mode(SLEEP_MODE_PWR_DOWN);
